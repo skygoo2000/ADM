@@ -14,11 +14,4 @@ Trajectory prediction is a challenging problem in autonomous driving as it deman
 
 ## Citation
 If you find ADM is useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
-```bibtex
-@article{zhang2023online,
-  title={Online Map Vectorization for Autonomous Driving: A Rasterization Perspective},
-  author={Zhang, Gongjie and Lin, Jiahao and Wu, Shuang and Song, Yilin and Luo, Zhipeng and Xue, Yang and Lu, Shijian and Wang, Zuoguan},
-  journal={arXiv preprint arXiv:2306.10502},
-  year={2023}
-}
-```
+
