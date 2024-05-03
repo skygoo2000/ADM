@@ -14,4 +14,13 @@ Trajectory prediction is a challenging problem in autonomous driving as it deman
 
 ## Citation
 If you find ADM is useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
-
+```bibtex
+@misc{li2024adm,
+      title={ADM: Accelerated Diffusion Model via Estimated Priors for Robust Motion Prediction under Uncertainties}, 
+      author={Jiahui Li and Tianle Shen and Zekai Gu and Jiawei Sun and Chengran Yuan and Yuhang Han and Shuo Sun and Marcelo H. Ang Jr au2},
+      year={2024},
+      eprint={2405.00797},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
+}
+```
